@@ -1,3 +1,17 @@
+# Run locally
+
+```shell
+node -v
+18.0.0
+yarn -version
+3.6.1
+
+cd Open-Design-System
+yarn install --immutable
+yarn storybook
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
