@@ -6,6 +6,7 @@ node -v
 yarn -version
 3.6.1
 
+git clone git@github.com:eungella-io/Open-Design-System.git
 cd Open-Design-System
 yarn install --immutable
 yarn storybook
